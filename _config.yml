@@ -5,7 +5,7 @@ highlighter: pygments
 # Site settings
 title: "ACS Group Project"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+  Something else
 
 email: a-mail@mail.mail
 #blog logo
