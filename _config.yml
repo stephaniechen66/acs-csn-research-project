@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Mediator"
+title: "ACS Group Project"
 description: > # this means to ignore newlines until "email:"
    A Jekyll theme - Medium inspired
 
