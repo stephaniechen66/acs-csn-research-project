@@ -6,9 +6,15 @@
 </description>
     <link>http://myblog.***.***/</link>
     <atom:link href="http://myblog.***.***/feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <pubDate>Thu, 25 Sep 2014 15:16:00 -0400</pubDate>
     <lastBuildDate>Thu, 25 Sep 2014 15:16:00 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+=======
+    <pubDate>Wed, 24 Sep 2014 21:41:03 -0400</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2014 21:41:03 -0400</lastBuildDate>
+    <generator>Jekyll v2.0.3</generator>
+>>>>>>> parent of dbf950d... removed featured posts from homepage
     
       <item>
         <title>Hello World!</title>
