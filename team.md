@@ -15,3 +15,7 @@ Taylor is a triple major in Information Systems, Human Computer Interaction, and
 ###Yueying Tang
 
 Yueying is currently a visiting intern in Carnegie Mellon University HCII Social Computing Lab, who is a senior in Department of Computer Science, Renmin University of China. She believes good design makes a real difference and she loves designing products that enrich people's life. She knows that there is still an amazing amount to learn, but she prefer learning by doing. Please check out her [portfolio](http://yueyingtang.me/) to know more about her project experiences, skill sets and personal interests.
+
+###Stephanie Chen
+
+Stephanie is a double major in Pyschology and Human Computer Interaction at Carnegie Mellon University. Her passion is understanding human behavior within social contexts. Her goal is to improve quality of life and make the widest possible impact on human activities and experiences. Although she has been a research assistant for all her college years, she is eager to branch out and learn more about design and programming.
